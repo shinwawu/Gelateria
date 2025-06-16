@@ -4,5 +4,5 @@ Esse repositório está sendo utilizado para realizar etapa do Processo Seletivo
 
 Estágio Análise de Dados | Cenário Gelateria
 
-Ferramentas Utilizadas : Python e PowerBI
+Ferramentas Utilizadas : Jupyter Notebook,Python e PowerBI
 
